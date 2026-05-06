@@ -13,4 +13,4 @@ VISUAL STUDIO CODE
 
 # Useful Websites
 
-- [W3Shcools](https://www.w3schools.com/)
+- [W3Schools](https://www.w3schools.com/)
